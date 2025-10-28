@@ -1,0 +1,25 @@
+{
+  "name": "json-diff",
+  "version": "1.0.0",
+  "description": "JSON Diff - The semantic JSON compare tool",
+  "main": "index.html",
+  "scripts": {
+    "start": "php -S 0.0.0.0:$PORT",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zgrossbart/jdd.git"
+  },
+  "keywords": [
+    "json",
+    "diff",
+    "compare",
+    "validator"
+  ],
+  "author": "Zack Grossbart",
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
